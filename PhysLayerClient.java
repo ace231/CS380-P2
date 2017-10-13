@@ -1,7 +1,7 @@
 /*****************************************
 *	Alfredo Ceballos
 *	CS 380 - Computer Networks
-*	Project 1
+*	Project 2
 *	Professor Nima Davarpanah
 *****************************************/
 import java.io.OutputStream;
